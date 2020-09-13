@@ -1,0 +1,10 @@
+[LB_HOSTS]
+CentOS-1
+
+[MASTER_HOSTS]
+CentOS-1
+
+[WORKER_HOSTS]
+CentOS-2
+CentOS-3
+CentOS-4
